@@ -1,12 +1,12 @@
 # AwesomeShop.Services.Products - Formação Microsserviços com ASP.NET Core
 
 A arquitetura do AwesomeShop, sistema de e-commerce baseado na arquitetura de microsserviços, contém 6 microsserviços:
-- [Customers](https://github.com/luisdeol/AwesomeShop.Services.Customers)
-- [Products](https://github.com/luisdeol/AwesomeShop.Services.Products) 
-- [Orders](https://github.com/luisdeol/AwesomeShop.Services.Orders)
-- [Payments](https://github.com/luisdeol/AwesomeShop.Services.Payments)
-- [Notifications](https://github.com/luisdeol/AwesomeShop.Services.Notifications)
-- [API Gateway](https://github.com/luisdeol/AwesomeShop.Services.ApiGateway)
+- [Customers](https://github.com/Gustavo-Vinicius/awesome-shop-services-customers)
+- [Products](https://github.com/Gustavo-Vinicius/awesome-shop-services-products)
+- [Orders](https://github.com/Gustavo-Vinicius/awesome-shop-services-orders)
+- [Payments](https://github.com/Gustavo-Vinicius/awesome-shop-services-payments)
+- [Notifications](https://github.com/Gustavo-Vinicius/awesome-shop-services-notifications)
+- [API Gateway](https://github.com/Gustavo-Vinicius/awesome-shop-services-apigeteway)
 
 ## Tecnologias, práticas e arquitetura utilizadas
 - ASP.NET Core com .NET 5
